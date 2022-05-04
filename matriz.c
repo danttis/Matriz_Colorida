@@ -1,5 +1,4 @@
 #include <stdio.h> //INCLUSÃO DA BIBLIOTECAS
-#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <locale.h>
